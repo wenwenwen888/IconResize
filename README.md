@@ -17,4 +17,4 @@
 java -jar IconSize.jar
 ```
 如图：
-<img src="https://github.com/wenwenwen888/IconResize/tree/master/preview/preview.png" width="30%" height="30%">
+<img src="https://github.com/wenwenwen888/IconResize/blob/master/preview/preview.png" width="30%" height="30%">
