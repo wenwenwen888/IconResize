@@ -8,7 +8,7 @@
 
 3，代码很简单，如果生成的版本不适合你使用，可以直接修改代码重新打包
 
-4，这里是主代码：[IconResize.kt](https://github.com/wenwenwen888/IconResize/src/IconResize.kt)
+4，这里是主代码：[IconResize.kt](https://github.com/wenwenwen888/IconResize/blob/master/src/IconResize.kt)
 
 感谢开源工具：[Thumbnailator](https://github.com/coobird/thumbnailator)
 
@@ -17,4 +17,4 @@
 java -jar IconSize.jar
 ```
 如图：
-<img src="https://github.com/wenwenwen888/IconResize/preview/preview.png" width="30%" height="30%">
+<img src="https://github.com/wenwenwen888/IconResize/tree/master/preview/preview.png" width="30%" height="30%">
