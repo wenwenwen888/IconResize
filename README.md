@@ -14,7 +14,7 @@
 
 ### How to use
 ```
-java -jar IconSize.jar
+java -jar IconResize.jar
 ```
 如图：
 
